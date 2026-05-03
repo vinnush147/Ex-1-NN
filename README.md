@@ -86,27 +86,29 @@ print(len(X_test))
 
 
 ## OUTPUT:
-![alt text](image.png)
+<img width="1530" height="441" alt="image" src="https://github.com/user-attachments/assets/caf5518c-8c5f-435d-86d6-cc481396d676" />
 
-![alt text](image-1.png)
+<img width="403" height="577" alt="image" src="https://github.com/user-attachments/assets/33ebfee6-39c1-46f1-8ef0-b53a3d827cc2" />
 
-![alt text](image-2.png)
+<img width="400" height="529" alt="image" src="https://github.com/user-attachments/assets/6b04238a-42e1-47ca-991e-4c1f875abcb1" />
 
-![alt text](image-3.png)
+<img width="540" height="225" alt="image" src="https://github.com/user-attachments/assets/a9ff0411-b76e-4713-b4bd-0c93fe1ba8f7" />
 
-![alt text](image-4.png)
+<img width="648" height="422" alt="image" src="https://github.com/user-attachments/assets/f7211094-ddd5-4563-8eae-63e11e2e8a53" />
 
-![alt text](image-5.png)
 
-![alt text](image-6.png)
+<img width="1445" height="491" alt="image" src="https://github.com/user-attachments/assets/3729adda-a80b-4fcf-9d14-b06c25bfa976" />
 
-![alt text](image-7.png)
+<img width="1018" height="515" alt="image" src="https://github.com/user-attachments/assets/45efe47c-3b08-4cb3-ac51-89ce7fe8bc40" />
 
-![alt text](image-8.png)
+<img width="803" height="318" alt="image" src="https://github.com/user-attachments/assets/2588a3e4-4de6-4890-8892-26718d6213bd" />
 
-![alt text](image-9.png)
+<img width="363" height="99" alt="image" src="https://github.com/user-attachments/assets/33fb697e-951f-4b48-86cd-9bd5a6017aa2" />
 
-![alt text](image-10.png)
+<img width="787" height="249" alt="image" src="https://github.com/user-attachments/assets/0ed346e6-9a5a-45a8-8a3e-f1c4b089b72a" />
+
+<img width="811" height="352" alt="image" src="https://github.com/user-attachments/assets/8f636409-f80a-4585-94c4-b5ec8fe8461f" />
+
 
 
 ## RESULT:
